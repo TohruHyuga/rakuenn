@@ -1,4 +1,4 @@
-/* pc向けcss */
+/* pc向けcss ----------------------------------------------------------------------*/
 @media screen and (min-width: 481px){
     li{
         list-style: none;
@@ -23,7 +23,7 @@
         /* left: 0; 左右の固定位置を左から0pxにする */
         display: flex; /* 中の要素を横並びにする */
         align-items: center; /* 中の要素を上下中央に並べる */
-        width:1100px;
+        width:900px;
 
     }
     
@@ -138,7 +138,66 @@
 
 
 
-/* スマホ(縦画面)向けcss ---------------------------------------------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /* スマホ(縦画面)向けcss ---------------------------------------------------------------------------*/
 @media screen and (max-width: 480px){ 
     li{
         list-style: none;
@@ -146,9 +205,8 @@
     
     body{
         /* margin-right:10px; */
-        margin-left:0px;
-        top:10px;
-        left:5px;
+        margin-left:2px;
+        margin-right:2px;
         font-family: 'Caveat', cursive;
     
     }
@@ -171,7 +229,7 @@
     
     .header-logo p{
         float:left;
-        padding:10px;
+        padding-top:10px;
         font-size: 20px;
         
     
@@ -222,7 +280,7 @@
     
     img{
         
-        width:auto;
+        size:300px 180px;
     }
 
 
@@ -286,6 +344,46 @@
     }
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
