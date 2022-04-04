@@ -279,8 +279,8 @@
     }
     
     img{
-        
-        size:300px 180px;
+        width:300px;
+        height:180px;
     }
 
 
@@ -293,17 +293,17 @@
         /* margin-top:10px; */
         /* text-align: center; */
         font-family: 'Courier New', Courier, monospace;
-        width:50%;
+        /* width:50%; */
 
 
     }
     
-    .img-intro p{
+    /* .img-intro p{
         /* margin-bottom:30px; */
         /* font-size:20px; */
-        width:50%;
+    
         
-    }
+    
     
     /* input,textarea{
         width:400px;
