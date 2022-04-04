@@ -200,7 +200,7 @@
 
 
  /* スマホ(縦画面)向けcss ---------------------------------------------------------------------------*/
-@media screen and (max-width: 480px){ 
+@media screen and (max-width: 500px){ 
     li{
         list-style: none;
     }
@@ -277,7 +277,7 @@
         width: 50%;
         /* font-family: 'Courier New', Courier, monospace; */
         /* font-family: 'Caveat', cursive; */
-        font-family: 'Kaushan Script', cursive;
+        /* font-family: 'Kaushan Script', cursive; */
     }
     
     .img-margin{
@@ -301,7 +301,7 @@
         margin-left:5px;
         margin-top:0px;
         /* font-family: 'Courier New', Courier, monospace; */
-        font-family: 'Kaushan Script', cursive;
+        /* font-family: 'Kaushan Script', cursive; */
         /* width:50%; */
         
 
@@ -423,7 +423,7 @@
         margin-right:20px;
         margin-left:40px;
         
-        font-family: 'Caveat', cursive;
+        /* font-family: 'Caveat', cursive; */
     
     }
     
@@ -502,7 +502,7 @@
         /* margin-top:10px; */
         /* text-align: center; */
         /* font-family: 'Courier New', Courier, monospace; */
-        font-family: 'Caveat', cursive;
+        /* font-family: 'Caveat', cursive; */
     }
     
     .img-intro p{
