@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+<meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name=”viewport” content=”width=device-width,initial-scale=1.0″>
     <link rel="stylesheet" href="./stylesheet.css">
     <!-- <iframe src="./founding.html" width="600" height="100"></iframe> -->
     <link href="https://fonts.googleapis.com/css?family=Caveat rel="stylesheet">
-    <meta name=”viewport” content=”width=device-width,initial-scale=1.0″>
     <link href="https://fonts.googleapis.com/css?family=Kaushan+Script rel="stylesheet">
-
     <title>愛知大学　楽園　サークル</title>
+    
 </head>
 <body>
     <div class="header">
