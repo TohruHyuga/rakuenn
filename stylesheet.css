@@ -16,14 +16,14 @@
     .header{
         background-color:#26d0c9;
         opacity: 0.8;
-        height:70px;
+        height:200px;
         color:aliceblue;
         position: fixed; /* ウィンドウを基準に画面に固定 */
         top: 0; /* 上下の固定位置を上から0pxにする */
         /* left: 0; 左右の固定位置を左から0pxにする */
         display: flex; /* 中の要素を横並びにする */
-        align-items: center; /* 中の要素を上下中央に並べる */
-        width:auto;
+        /* align-items: center; 中の要素を上下中央に並べる */
+
     }
     
     .header-logo{
@@ -219,7 +219,7 @@
     }
     
     img{
-        width: auto;
+        width: 50%;
         height:auto
     }
 
