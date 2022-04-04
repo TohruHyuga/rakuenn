@@ -7,7 +7,7 @@
     body{
         margin-right:200px;
         margin-left:200px;
-            
+        
         font-family: 'Caveat', cursive;
     
     }
@@ -20,7 +20,7 @@
         color:aliceblue;
         position: fixed; /* ウィンドウを基準に画面に固定 */
         top: 0; /* 上下の固定位置を上から0pxにする */
-        left: 0; /*左右の固定位置を左から0pxにする */
+        /* left: 0; 左右の固定位置を左から0pxにする */
         display: flex; /* 中の要素を横並びにする */
         align-items: center; /* 中の要素を上下中央に並べる */
 
@@ -71,7 +71,7 @@
         /* justify-content: space-between; */
     }
     .flex>p{
-        width: 1%;
+        width: 50%;
         font-family: 'Courier New', Courier, monospace;
     }
     
@@ -81,7 +81,7 @@
     
     .img-margin p{
         font-size:30px;
-        margin-top:10px;
+        /* margin-top:10px; */
         /* text-align: center; */
         font-family: 'Courier New', Courier, monospace;
     }
@@ -107,7 +107,7 @@
       }
     
     .active-intro li{
-        font-size:30px;
+        font-size:20px;
         list-style: disc;
     }
     
@@ -145,7 +145,7 @@
     
     body{
         /* margin-right:10px; */
-        margin: left 5px;
+        margin-left:0px;
             
         font-family: 'Caveat', cursive;
     
@@ -184,13 +184,10 @@
     .main{
         height: 10000px;
         /* background-color: aquamarine; */
-        margin-top:100px;
+        margin-top:200px;
     }
     
-    .copy-container h2{
-        color:red;
-    }
-    
+
     .contents{
         margin-top: 100px;
     }
@@ -218,21 +215,27 @@
         margin-right:20px;
     }
     
-    img{
+    /* img{
         width: 70%;
         height:auto
-    }
+    } */
 
+
+    .img-margin{
+        width:50%;
+    }
 
     .img-margin p{
         font-size:30px;
         margin-top:10px;
         /* text-align: center; */
         font-family: 'Courier New', Courier, monospace;
+
+
     }
     
     .img-intro p{
-        margin-bottom:30px;
+        /* margin-bottom:30px; */
         font-size:20px;
         
     }
