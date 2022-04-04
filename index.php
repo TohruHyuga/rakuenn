@@ -14,7 +14,7 @@
 <body>
     <div class="header">
         <div class="header-logo">
-            楽園
+           <p>楽園</p> 
         </div>
         <div class="header-link">
             <ul>

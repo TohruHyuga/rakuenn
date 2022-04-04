@@ -23,6 +23,7 @@
         /* left: 0; 左右の固定位置を左から0pxにする */
         display: flex; /* 中の要素を横並びにする */
         align-items: center; /* 中の要素を上下中央に並べる */
+        width:max-content;
 
     }
     
@@ -146,7 +147,8 @@
     body{
         /* margin-right:10px; */
         margin-left:0px;
-            
+        top:10px;
+        left:5px;
         font-family: 'Caveat', cursive;
     
     }
@@ -165,10 +167,10 @@
         
     }
     
-    .header-logo{
+    .header-logo p{
         float:left;
         padding:10px 5px;
-        font-size: 36px;
+        font-size: 17px;
         
     
     }
@@ -176,6 +178,7 @@
     .header-link li{
         float:left;
         padding:20px 5px;
+        font-size: 7px;
     
     
     }
@@ -215,10 +218,10 @@
         margin-right:20px;
     }
     
-    /* img{
+    img{
         width: 70%;
         height:auto
-    } */
+    }
 
 
     .img-margin{
