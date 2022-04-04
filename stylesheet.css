@@ -167,7 +167,7 @@
     
     .header-logo{
         float:left;
-        padding:20px 10px;
+        padding:10px 5px;
         font-size: 36px;
         
     
@@ -175,7 +175,7 @@
     
     .header-link li{
         float:left;
-        padding:20px 10px;
+        padding:20px 5px;
     
     
     }
@@ -233,17 +233,17 @@
     
     .img-intro p{
         margin-bottom:30px;
-        font-size:15px;
+        font-size:20px;
         
     }
     
-    input,textarea{
+    /* input,textarea{
         width:400px;
         margin:10px 0px 30px 0px;
         padding:20px;
         font-size:18px;
         border:1px solid #dee7ec;
-    }
+    } */
     
     
     .contact-submit{
@@ -252,7 +252,7 @@
       }
     
     .active-intro li{
-        font-size:30px;
+        font-size:20px;
         list-style: disc;
     }
     
@@ -271,7 +271,8 @@
     .footer{
         background-color: rgb(15, 69, 69);
         height:100px;
-        color:aliceblue
+        color:aliceblue;
+        font-size :20px;
     }
 
 }
