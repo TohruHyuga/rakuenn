@@ -164,14 +164,14 @@
         /* left: 0; 左右の固定位置を左から0pxにする */
         display: flex; /* 中の要素を横並びにする */
         align-items: center; /* 中の要素を上下中央に並べる */
-        width:700px;
+        width:auto;
 
         
     }
     
     .header-logo p{
         float:left;
-        padding:10px 5px;
+        padding:10px;
         font-size: 20px;
         
     
@@ -242,7 +242,8 @@
     
     .img-intro p{
         /* margin-bottom:30px; */
-        font-size:20px;
+        /* font-size:20px; */
+        width:50%;
         
     }
     
