@@ -74,6 +74,7 @@
     .flex>p{
         width: 50%;
         font-family: 'Courier New', Courier, monospace;
+
     }
     
     .img-margin{
@@ -84,7 +85,8 @@
         font-size:30px;
         /* margin-top:10px; */
         /* text-align: center; */
-        font-family: 'Courier New', Courier, monospace;
+        /* font-family: 'Courier New', Courier, monospace; */
+        font-family: 'Caveat', cursive;
     }
     
     .img-intro p{
@@ -222,14 +224,13 @@
         /* left: 0; 左右の固定位置を左から0pxにする */
         display: flex; /* 中の要素を横並びにする */
         align-items: center; /* 中の要素を上下中央に並べる */
-        width:auto;
 
         
     }
     
     .header-logo p{
         float:left;
-        padding-top:10px;
+        margin-top:10px;
         font-size: 20px;
         
     
@@ -237,7 +238,7 @@
     
     .header-link li{
         float:left;
-        padding:20px 5px;
+        margin:20px 5px;
         font-size: 15px;
     
     
@@ -257,9 +258,9 @@
     
     .section-title{
         border-bottom:2px solid #dee7ec;
-        font-size: 40px;
-        padding-bottom:15px;
-        margin-bottom:50px;
+        font-size: 30px;
+        padding-bottom:10px;
+        margin-bottom:30px;
         
     }
     
@@ -271,7 +272,8 @@
     }
     .flex>p{
         width: 50%;
-        font-family: 'Courier New', Courier, monospace;
+        /* font-family: 'Courier New', Courier, monospace; */
+        font-family: 'Caveat', cursive;
     }
     
     .img-margin{
@@ -289,7 +291,7 @@
     }
 
     .img-margin p{
-        font-size:10px;
+        font-size:7px;
         /* margin-top:10px; */
         /* text-align: center; */
         font-family: 'Courier New', Courier, monospace;
@@ -299,7 +301,7 @@
     }
     
     .img-intro p{
-        font-size: 10px;
+        font-size: 5px;
     }
         /* margin-bottom:30px; */
         /* font-size:20px;
@@ -485,7 +487,8 @@
         font-size:30px;
         /* margin-top:10px; */
         /* text-align: center; */
-        font-family: 'Courier New', Courier, monospace;
+        /* font-family: 'Courier New', Courier, monospace; */
+        font-family: 'Caveat', cursive;
     }
     
     .img-intro p{
