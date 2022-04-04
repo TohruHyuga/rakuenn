@@ -210,7 +210,7 @@
         margin-left:2px;
         margin-right:2px;
     
-        font-family: 'Kaushan Script', cursive;
+        /* font-family: 'Kaushan Script', cursive; */
     
     }
     
@@ -225,7 +225,7 @@
         /* left: 0; 左右の固定位置を左から0pxにする */
         /* display: flex; 中の要素を横並びにする */
         align-items: center; /* 中の要素を上下中央に並べる */
-        width: 50px;
+        width: 5px;
 
         
     }
@@ -241,7 +241,7 @@
     
     .header-link li{
         float:left;
-        margin:20px 5px;
+        margin-top:5px;
         font-size: 15px;
     
     
